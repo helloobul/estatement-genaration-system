@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: estatement-genaration-system
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: obubhojj
+Implementation-Vendor-Id: org.banking
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/estatement-genaration-system
+Created-By: Maven Integration for Eclipse
+
